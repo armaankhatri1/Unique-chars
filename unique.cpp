@@ -1,10 +1,4 @@
-/*******************************************************************************
- * Name        : unique.cpp
- * Author      : Armaan Khatri
- * Date        : 9/30/2023
- * Description : Determining uniqueness of chars with int as bit vector.
- * Pledge      : I pledge my honor that I have abided by the stevens honor system. 
- ******************************************************************************/
+
 #include <iostream>
 #include <cctype>
 
